@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CloneUtube/precache-manifest.3ed7f1bee407c33ce932156a45a3a366.js"
+  "/CloneUtube/precache-manifest.29a9c458492502aac46ba1ef8955ab0d.js"
 );
 
 workbox.clientsClaim();

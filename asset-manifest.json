@@ -1,7 +1,7 @@
 {
   "main.css": "/CloneUtube/static/css/main.af206cd3.chunk.css",
-  "main.js": "/CloneUtube/static/js/main.2eac03c7.chunk.js",
-  "main.js.map": "/CloneUtube/static/js/main.2eac03c7.chunk.js.map",
+  "main.js": "/CloneUtube/static/js/main.c80c87a4.chunk.js",
+  "main.js.map": "/CloneUtube/static/js/main.c80c87a4.chunk.js.map",
   "static/js/1.af08dc77.chunk.js": "/CloneUtube/static/js/1.af08dc77.chunk.js",
   "static/js/1.af08dc77.chunk.js.map": "/CloneUtube/static/js/1.af08dc77.chunk.js.map",
   "static/js/2.271237c2.chunk.js": "/CloneUtube/static/js/2.271237c2.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/CloneUtube/static/js/runtime~main.47bc506d.js.map",
   "static/css/main.af206cd3.chunk.css.map": "/CloneUtube/static/css/main.af206cd3.chunk.css.map",
   "index.html": "/CloneUtube/index.html",
-  "precache-manifest.3ed7f1bee407c33ce932156a45a3a366.js": "/CloneUtube/precache-manifest.3ed7f1bee407c33ce932156a45a3a366.js",
+  "precache-manifest.29a9c458492502aac46ba1ef8955ab0d.js": "/CloneUtube/precache-manifest.29a9c458492502aac46ba1ef8955ab0d.js",
   "service-worker.js": "/CloneUtube/service-worker.js"
 }

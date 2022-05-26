@@ -1,0 +1,26 @@
+.Sidebar{
+    position:sticky;
+    top: 60px;
+    display: flex;
+    flex:0.05;
+    background-color: #fff;
+    height: 10vh;
+    z-index: 100;
+    flex-direction: column;
+}
+.sidebar__items{
+    flex-direction: column;
+    transition: 0.3s;
+    width: 100%;
+    padding: 10px;
+    margin-left: -5px;
+}
+
+.sidebar__items:hover{
+    background: #d2d2d2;
+}
+
+.sidebar_txt{
+    font-size: 0.7rem;
+    line-height: 1rem;
+}

@@ -1,0 +1,80 @@
+.header{
+    padding: 0 12px;
+    height: 60px;
+    position: sticky;
+    background-color: #fff;
+    z-index: 1000;
+    top: 0;
+}
+
+.menubar{
+    margin-right: 15px;
+}
+
+input.search__box{
+    width: 88%;
+    height: 40px;
+    padding: 0px 40px 0px 2px; 
+    border:1px solid #CDCDCC;
+    border-radius: 2px 0 0 2px;
+}
+.input__box{
+    width: 88%;
+    padding: 0 10px; 
+}
+.header__middle__items{
+    width: 70%;
+    margin-right: 20px;
+}
+.search__box__btn{
+    height: 40px;
+    width: 64px;
+    top: 0;
+    right: 4%;
+    border: 1px solid #CDCDCC;
+    cursor: pointer;
+    padding: 6px;
+    background-color: #F9F9F8;
+    border-radius: 0px 2px 2px 0px;
+}
+
+.header__left__items{
+    width: 25%;
+}
+.mike__container{
+    border-radius: 100%;
+    background: #F8F8F9;
+    padding: 7px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__right__items{
+    width: 25%;
+    justify-content: space-evenly;
+}
+
+.top__menu__icons{
+    height: 40px;
+    width: 40px;
+    padding: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.email_container>img{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    padding: 5px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
